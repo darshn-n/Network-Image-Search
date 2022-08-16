@@ -81,11 +81,11 @@ For help getting started with Flutter, view our online
 ```dart
 return const Scaffold(
       body: Center(
-        child: UnsplashImages(
+        child: Unsplash(
           width: '720',
-          name: 'bike',
-          relatedName: 'cycle',
           height: '360',
+          category: 'bike',
+          subcategory: 'cycle',
         ),
       ),
     );
