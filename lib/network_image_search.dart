@@ -6,8 +6,8 @@ import 'package:flutter/material.dart';
 
 /// Pexels, Unsplash
 
-class UnsplashImages extends StatelessWidget {
-  const UnsplashImages({
+class Unsplash extends StatelessWidget {
+  const Unsplash({
     Key? key,
     this.name,
     this.relatedName,

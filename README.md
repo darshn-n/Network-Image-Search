@@ -30,23 +30,21 @@ First Open Source Flutter based Beautiful Material Design Music Player(Online Ra
 
 
 ### Screenshots
-<!-- 
-<img src="flutey.gif" height="300em" /> <img src="flute1.png" height="300em" /> <img src="flute2.png" height="300em" /> <img src="flute3.png" height="300em" /> <img src="flute4.png" height="300em" /><img src="flute5.png" height="300em" />
- -->
+
+<img src="ss1.jpg" height="300em" /> <img src="ss2.jpg" height="300em" /> 
+<img src="ss3.jpg" height="300em" />
 
 
-### Flute Music Player Plugin
+### Usage
 
-[Plugin](https://github.com/iampawan/Flute-Music-Player)
+[Example](https://github.com/darshn-n/Network-Image-Search/blob/master/example/example_app.dart)
 
 
 ### Created & Maintained By
 
 [Darshan N](https://github.com/darshn-n) 
 
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://www.paypal.me/imthepk/)
+> If you found this project helpful or you learned something from the source code and want to thank me <darshan51081@gmail.com>
 
 # License
 
@@ -67,7 +65,7 @@ First Open Source Flutter based Beautiful Material Design Music Player(Online Ra
 
 
 For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+[documentation](https://flutter.dev/).
 
 ## Usage
 
