@@ -12,7 +12,7 @@ and the Flutter guide for
 -->
 # Network Image Search
 
-First Open Source Flutter based Beautiful Material Design Music Player(Online Radio will be added soon.)
+First Open Source Flutter based Beautiful Network Search Image Package.
 
 
 ## Features
@@ -79,7 +79,7 @@ For help getting started with Flutter, view our online
 ```
 
 ```dart
-return const Scaffold(
+return Scaffold(
       body: Center(
         child: Unsplash(
           width: '720',
