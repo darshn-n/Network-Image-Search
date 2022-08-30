@@ -31,7 +31,7 @@ First Open Source Flutter based Beautiful Network Search Image Package.
 
 ### Screenshots
 
-<img src="ss1.jpg" height="300em" /> <img src="ss2.jpg" height="300em" /> 
+<img src="ss1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;<img src="ss2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="ss3.jpg" height="300em" />
 
 
