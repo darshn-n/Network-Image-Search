@@ -1,6 +1,6 @@
 name: network_image_search
 description: A new Flutter Package which helps to search Unsplash Network Images from multiple websites with customizable width and height. Compatible to Android and iOS.
-version: 0.0.1+5
+version: 1.0.0
 homepage: https://github.com/darshn-n/Network-Image-Search
 
 environment:
